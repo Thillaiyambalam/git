@@ -1,1 +1,4 @@
-console.log("Welcome to the Git Project")
+console.log("Welcome to the Git Projects")
+for(var i=0;i<5;i++){
+    console.log("GIT");
+}
